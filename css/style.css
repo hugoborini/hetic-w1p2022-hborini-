@@ -1,0 +1,57 @@
+* {
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: "antiqua_b";
+  src: url("font/antiqua_b.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Marr";
+  src: url("font/Sans.ttf") format("truetype");
+}
+
+ul.head {
+  list-style: none;
+  margin-left: 25%;
+  margin-top: 2%;
+  font-size: 16px;
+  line-height: 26px;
+  color: rgb(56, 63, 78);
+  letter-spacing: 3px;
+  font-family: antiqua_b, Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+h2 {
+  margin-left: 25%;
+  margin-top: 4%;
+  font-size: 38px;
+  line-height: 42px;
+  color: rgb(42, 48, 59);
+}
+
+.text {
+  margin-left: 25%;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin-top: 1%;
+  font-size: 18px;
+  line-height: 26px;
+  color: rgb(42, 48, 59);
+}
+
+ul.date {
+  margin-left: 25%;
+  list-style-type: none;
+}
+
+.Paul {
+  margin-left: 25%;
+  margin-top: 3%;
+  height: 25%;
+  width: 25%;
+}
+
+ul li {
+  display: inline;
+}
