@@ -91,4 +91,30 @@ ul li {
   font-size: 18px;
   line-height: 28px;
   font-family: "Times New Roman", Times, serif;
+  color: rgb(56, 63, 78);
+}
+
+.pipe {
+  margin-left: 25%;
+  margin-top: 1%;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 18px;
+  line-height: 25px;
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h3 {
+  margin-top: 1%;
+  margin-left: 25%;
+  font-size: 25px;
+  line-height: 22px;
+  font-weight: bold;
 }
