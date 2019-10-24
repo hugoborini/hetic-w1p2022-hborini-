@@ -42,16 +42,53 @@ h2 {
 
 ul.date {
   margin-left: 25%;
+  margin-top: 1%;
   list-style-type: none;
+  color: rgb(113, 123, 142);
 }
 
 .Paul {
   margin-left: 25%;
-  margin-top: 3%;
+  margin-top: 1%;
   height: 25%;
   width: 25%;
 }
 
 ul li {
   display: inline;
+}
+
+.chronologo {
+  height: 1%;
+  width: 1%;
+}
+
+.lecture {
+  margin-top: 1%;
+  margin-left: 25%;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: rgb(113, 123, 142);
+}
+
+.barr {
+  margin-top: 1%;
+  margin-left: 25%;
+  color: rgb(113, 123, 142);
+}
+
+.citation {
+  margin-left: 25%;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 14px;
+  line-height: 20px;
+  color: rgb(139, 146, 161);
+}
+
+.para {
+  margin-left: 25%;
+  margin-top: 1%;
+
+  font-size: 18px;
+  line-height: 28px;
+  font-family: "Times New Roman", Times, serif;
 }
